@@ -48,7 +48,9 @@ Links to publicly available datasets and tools for gear defect detection.
 
 - (https://github.com/ThuraTunScibotics/spurgear-teeth-defects-detection-and-tracking-with-YOLOv7-DeepSort)
 
--https://github.com/bscpnu/Gear-Classification-using-CNN-Keras
+- (https://github.com/bscpnu/Gear-Classification-using-CNN-Keras)
+
+- (https://github.com/ThuraTunScibotics/gear-teeth-defect-detection-YOLOv3)
 
 
 
