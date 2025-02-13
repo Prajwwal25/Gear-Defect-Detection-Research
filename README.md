@@ -39,10 +39,9 @@ Papers discussing algorithms for counting gear teeth.
 ## Datasets and Tools
 Links to publicly available datasets and tools for gear defect detection.
 
-- **Dataset**: "Gear Defect Dataset"
-  - **Link**: [Dataset Link](https://example.com)
-  - **Description**: A dataset containing images of defective and non-defective gears.
- 
+- **Dataset**: "marked-gear-teeth-detection"
+  - **Link**: [Dataset Link](https://universe.roboflow.com/zyh-mwtao/marked-gear-teeth-detection)
+  - **Source**-Roboflow
 ---
 ### Github Repo
 
