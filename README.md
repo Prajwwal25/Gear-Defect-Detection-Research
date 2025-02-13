@@ -14,10 +14,9 @@ This repository contains a collection of research papers, articles, and resource
 ## Defect Detection Techniques
 Papers and resources discussing methods for detecting defects in gears.
 
-- **Title**: "A Review of Gear Fault Diagnosis Using Vibration Analysis"
-  - **Authors**: [Author Names]
-  - **Link**: [Paper Link](https://example.com)
-  - **Description**: This paper reviews traditional vibration-based methods for detecting gear faults.
+- **Title**: "Defect detection of gear parts in virtual manufacturing"
+  - **Link**: [Paper Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC10060497/#Sec6)
+  - **Description**: This research proposes a deep learning network, Gear-PCNet++, for detecting gear defects using point cloud representations. The network classifies defects into four categories: fracture, pitting, glue, and wear, utilizing a novel Combinational Convolution Block (CCB) to extract local gear information. Experiments demonstrate that Gear-PCNet++ achieves better recognition results for gear defects with higher efficiency and practicability compared to other methods. The study also introduces a new 3D gear model dataset with 10,000 instances..
 
 - **Title**: "Deep Learning-Based Gear Defect Detection Using Convolutional Neural Networks"
   - **Authors**: [Author Names]
