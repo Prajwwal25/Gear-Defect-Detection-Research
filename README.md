@@ -7,6 +7,7 @@ This repository contains a collection of research papers, articles, and resource
 2. [Gear Identification Methods](#gear-identification-methods)
 3. [Tooth Counting Algorithms](#tooth-counting-algorithms)
 4. [Datasets and Tools](#datasets-and-tools)
+5. [Github Repo](#github-repo)
 
 ---
 
@@ -41,7 +42,13 @@ Links to publicly available datasets and tools for gear defect detection.
 - **Dataset**: "Gear Defect Dataset"
   - **Link**: [Dataset Link](https://example.com)
   - **Description**: A dataset containing images of defective and non-defective gears.
+ 
+---
+### Github Repo
 
+- (https://github.com/ThuraTunScibotics/spurgear-teeth-defects-detection-and-tracking-with-YOLOv7-DeepSort)
+
+-https://github.com/bscpnu/Gear-Classification-using-CNN-Keras
 
 
 
